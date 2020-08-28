@@ -1,1 +1,3 @@
 # javascript-challenge
+This challenge was to create a basic HTML web page using the starter code provided to allow the user to search and filter through the UFO Sightings dataset by date. 
+The 'UFO-level-1' folder contains the 'Static' folder and 'index.html' file. Inside the 'Static' folder are the javascript files, css files, and provided images. The data is stored in the 'data.js' file. The 'app.js' file contains the code that appends the UFO sightings table to the web page and adds new rows of data for each sighting. 
